@@ -1,0 +1,83 @@
+%%
+\NeedsTeXFormat{LaTeX2e}
+\def\fileversion{1.01}
+\def\filedate{2017/02/26}
+\ProvidesPackage{montserrat}[\filedate\space v\fileversion]
+
+\message{`montserrat' v\fileversion, \filedate\space Style file for Montserrat and Alternates (msharpe)}
+
+\RequirePackage[LY1,T1]{fontenc}
+\RequirePackage{textcomp}
+\IfFileExists{mweights.sty}{\RequirePackage{mweights}}{}
+\IfFileExists{fontaxes.sty}{
+    \RequirePackage{fontaxes}
+    \fa@naming@exception{figures}{{superior}{proportional}}{Sup}
+    \fa@naming@exception{figures}{{superior}{tabular}}{Sup}
+    \def\sufigures{\@nomath\sufigures
+        \fontfigurestyle{superior}\selectfont}
+    \DeclareTextFontCommand{\textsu}{\sufigures}
+    \let\textsuperior\textsu
+
+    \fa@naming@exception{figures}{{inferior}{proportional}}{Inf}
+    \fa@naming@exception{figures}{{inferior}{tabular}}{Inf}
+    \def\infigures{\@nomath\infigures
+        \fontfigurestyle{inferior}\selectfont}
+    \DeclareTextFontCommand{\textin}{\infigures}
+    \let\textinferior\textin
+
+    \fa@naming@exception{figures}{{numerators}{proportional}}{Numr}
+    \fa@naming@exception{figures}{{numerators}{tabular}}{Numr}
+
+    \fa@naming@exception{figures}{{denominators}{proportional}}{Dnom}
+    \fa@naming@exception{figures}{{denominators}{tabular}}{Dnom}
+    \def\defigures{\@nomath\defigures
+        \fontfigurestyle{denominators}\selectfont}
+    \DeclareTextFontCommand{\textde}{\defigures}
+    \let\textdenominators\textde
+    \def\nufigures{\@nomath\nufigures
+        \fontfigurestyle{numerators}\selectfont}
+    \DeclareTextFontCommand{\textnu}{\nufigures}
+    \let\textnumerators\textnu
+
+}{}
+
+\RequirePackage{xkeyval}
+\newcommand*{\Montserrat@scale}{1}
+\DeclareOptionX{scale}{\renewcommand*{\Montserrat@scale}{#1}}
+\DeclareOptionX{scaled}{\renewcommand*{\Montserrat@scale}{#1}}
+\newif\ifMontserrat@famdef
+\def\Montserrat@alt{}\newif\ifMontserrat@alt
+\DeclareOptionX{lining}{\edef\Montserrat@figurestyle{LF}}
+\DeclareOptionX{oldstyle}{\edef\Montserrat@figurestyle{OsF}}
+\DeclareOptionX{tabular}{\edef\Montserrat@figurealign{T}}
+\DeclareOptionX{proportional}{\edef\Montserrat@figurealign{}}
+\DeclareOptionX{thin}{\edef\mdseries@sf{t}}
+\DeclareOptionX{black}{\edef\bfseries@sf{k}}
+\DeclareOptionX{extrabold}{\edef\bfseries@sf{eb}}
+\DeclareOptionX{semibold}{\edef\bfseries@sf{sb}}
+\DeclareOptionX{bold}{\edef\bfseries@sf{b}}
+\DeclareOptionX{extralight}{\edef\mdseries@sf{el}}
+\DeclareOptionX{light}{\edef\mdseries@sf{l}}
+\DeclareOptionX{medium}{\edef\mdseries@sf{mb}}
+\DeclareOptionX{regular}{\edef\mdseries@sf{m}}
+\DeclareOptionX{alternates}{\edef\Montserrat@alt{Alternates}\Montserrat@alttrue}
+\DeclareOptionX{defaultfam}{\Montserrat@famdeftrue}
+\ExecuteOptionsX{lining,proportional,bold,regular}
+\ProcessOptionsX\relax
+
+\ifMontserrat@alt
+  \edef\Montserrat@other{Montserrat-\Montserrat@figurealign\Montserrat@figurestyle}
+\else
+  \edef\Montserrat@other{MontserratAlternates-\Montserrat@figurealign\Montserrat@figurestyle}
+\fi
+\def\montserratalt{\fontfamily{\Montserrat@other}\selectfont }
+\renewcommand*{\sfdefault}%
+{Montserrat\Montserrat@alt-\Montserrat@figurealign\Montserrat@figurestyle}
+\ifMontserrat@famdef%
+  \renewcommand*{\familydefault}{\sfdefault}
+  \edef\mdseries@rm{\mdseries@sf}
+  \edef\bfseries@rm{\bfseries@sf}
+  \let\mddefault\mdseries@rm
+  \rmfamily
+\fi
+\endinput
