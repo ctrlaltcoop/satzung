@@ -1,7 +1,9 @@
+% pandoc-xnos: cleveref fakery
 \documentclass[a4paper, 12pt]{scrartcl}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage[ngerman]{babel}
+\usepackage{hyperref}
 \usepackage[official]{eurosym}
 \usepackage{breakurl}
 \usepackage[defaultfam]{montserrat}
@@ -15,6 +17,14 @@
 
 % § for Section anzeigen
 \renewcommand*\thesection{\S~\arabic{section}}
+
+% automagisch sectionnamen als sec:Sektionsname labeln
+\let\orisectionmark\sectionmark
+\renewcommand*\sectionmark[1]{\label{sec:#1}\orisectionmark{#1}}
+
+
+% ref zeigt nur §4 anstatt Section §4
+\addto\extrasngerman{\def\sectionrefname{}}
 
 \urlstyle{same}
 
@@ -53,10 +63,10 @@
     \end{enumerate}
   \item Die Mitgliedschaft endet durch:
   \begin {enumerate}
-    \item Kündigung (Kündigung),
-    \item Übertragung des gesamten Geschäftsguthabens,
-    \item Tod, bzw. Auflösung einer juristischen Person oder einer Personengesellschaft oder
-    \item Ausschluss (Ausschluss).
+    \item \nameref{sec:Kündigung} (\ref{sec:Kündigung}),
+    \item Übertragung des gesamten Geschäftsguthabens (\ref{sec:Übertragung des Geschäftsguthabens}),
+    \item Tod, bzw. Auflösung einer juristischen Person oder einer Personengesellschaft (\ref{sec:Tod / Auflösung einer juristischen Person oder Personengesellschaft}) oder
+    \item \nameref{sec:Ausschluss} (\ref{sec:Ausschluss}).
   \end{enumerate}
 \end{enumerate}
 
@@ -119,7 +129,7 @@
     \item wenn es unrichtige oder unvollständige Erklärungen über seine rechtlichen und/oder wirtschaftlichen Verhältnisse abgibt;
     \item wenn es ein eigenes mit der Genossenschaft in Wettbewerb stehendes Unternehmen betreibt oder sich an einen solchen beteiligt, oder wenn ein mit der Genossenschaft in Wettbewerb stehendes Unternehmen sich an dem Unternehmen des Mitglieds beteiligt.
   \end{enumerate}
-  \item Über den Ausschluss entscheidet die Generalversammlung unter Berücksichtigung der Mehrheitserfordernisse.
+  \item Über den Ausschluss entscheidet die Generalversammlung unter Berücksichtigung der \nameref{sec:Mehrheitserfordernisse} (\ref{sec:Mehrheitserfordernisse}).
   \item Das Mitglied muss vorher angehört werden, es sei denn, dass der Aufenthalt eines Mitgliedes nicht ermittelt werden kann.
   \item Der Beschluss, durch den das Mitglied ausgeschlossen wird, ist dem Mitglied vom Vorstand unverzüglich durch eingeschriebenen Brief mitzuteilen.
   \item Das Mitglied verliert ab dem Zeitpunkt der Absendung der Mitteilung das Recht auf Teilnahme an der Generalversammlung oder der Vertreterversammlung sowie seine Mitgliedschaft im Vorstand, sein Amt als bevollmächtigte Person oder Revisor.
@@ -142,7 +152,7 @@
   \item Jede ordnungsgemäß einberufene Generalversammlung ist unabhängig von der Zahl der Teilnehmer beschlussfähig.
   \item Jedes Mitglied hat eine Stimme.
   \item Die Mitglieder können Stimmrechtsvollmachten erteilen. Kein Bevollmächtigter darf mehr als zwei Mitglieder vertreten. Bevollmächtigte können nur Mitglieder der Genossenschaft, Ehegatten, eingetragene Lebenspartner, Eltern der Kinder eines Mitglieds oder Angestellte von juristischen Personen oder Personengesellschaften sein.
-  \item Mehrheitserfordernisse für Abstimmungen sind in \$ 14 definiert.
+  \item \nameref{sec:Mehrheitserfordernisse} für Abstimmungen sind in \ref{sec:Mehrheitserfordernisse} definiert.
   \item Die Generalversammlung bestimmt die Versammlungsleitung auf Vorschlag des Vorstands.
   \item Die Beschlüsse werden gem. § 47 GenG protokolliert.
 \end{enumerate}
