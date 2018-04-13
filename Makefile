@@ -36,6 +36,9 @@ pdf:
 odt:
 	pandoc -f latex -t odt -o Satzung.odt Satzung.tex
 
+docx:
+	pandoc -f latex -t docx -o Satzung.docx Satzung.tex
+
 organize:
 	latexmk -c
 
