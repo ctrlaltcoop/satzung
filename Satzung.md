@@ -502,6 +502,6 @@ standalone: true
     Die Beträge werden den Rücklagen zugeführt.
 
 # Bekanntmachungen
-    Bekanntmachungen, deren Veröffentlichung vorgeschrieben ist,
-    erfolgen unter der Firma der Genossenschaft im elektronischen
-    Bundesanzeiger und unter www.genossenschaftsbekanntmachungen.de.
+Bekanntmachungen, deren Veröffentlichung vorgeschrieben ist,
+erfolgen unter der Firma der Genossenschaft im elektronischen
+Bundesanzeiger und unter www.genossenschaftsbekanntmachungen.de.
