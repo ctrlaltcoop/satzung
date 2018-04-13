@@ -43,5 +43,4 @@ docx:
 clean:
 	rm -f Satzung.docx
 	rm -f Satzung.pdf
-	rm -f Satzung.html
 	rm -f Satzung.odt
