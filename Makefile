@@ -6,7 +6,7 @@
 
 # The first rule in a Makefile is the one executed by default ("make"). It
 # should always be the "all" rule, so that "make" and "make all" are identical.
-all: odt pdf
+all: odt pdf docx
 
 # CUSTOM BUILD RULES
 
@@ -31,14 +31,17 @@ all: odt pdf
 # missing file reference and interactively asking you for an alternative.
 
 pdf:
-	latexmk -f -pdf -pdflatex="pdflatex -interaction=nonstopmode" -use-make Satzung.tex
+	pandoc -f markdown -t html5 -o Satzung.pdf Satzung.md -s -N
+
 
 odt:
-	pandoc -f latex -t odt -o Satzung.odt Satzung.tex
+	pandoc -f markdown --reference-doc=styles/style.odt -o Satzung.odt Satzung.md -s -N
 
-organize:
-	latexmk -c
+docx:
+	pandoc -f markdown --reference-doc=styles/style.docx -o Satzung.docx Satzung.md -s -N
 
 clean:
-	latexmk -CA
+	rm -f Satzung.docx
+	rm -f Satzung.pdf
+	rm -f Satzung.html
 	rm -f Satzung.odt

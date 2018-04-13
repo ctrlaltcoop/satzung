@@ -1,8 +1,3 @@
-*.log
-*.fls
-*.fdb_latexmk
-*.aux
-*.toc
-*.out
-*.pdf
-*.odt
+Satzung.pdf
+Satzung.odt
+Satzung.docx

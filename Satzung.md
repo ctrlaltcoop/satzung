@@ -1,0 +1,507 @@
+---
+title: "Satzung"
+date: "13.04.2018"
+numbersections: true
+standalone: true
+
+---
+
+<style type="text/css">
+  body {
+    font-family: Montserrat;
+  }
+
+  header {
+    text-align: center;
+  }
+
+  header h1 {
+    font-size: 2.5em;
+  }
+
+  header h1:before {
+    content: "";
+  }
+
+  h1:before {
+    content: "§ "
+  }
+
+  h1 {
+    font-size: 1.5em;
+  }
+
+</style>
+
+\maketitle
+\sffamily
+\tableofcontents
+\newpage
+
+# Name, Sitz
+
+1. Die Genossenschaft heißt "ctrl.alt.coop eG".
+
+1. Der Sitz der Genossenschaft ist Schöneiche bei Berlin.
+
+# Zweck und Gegenstand
+
+1. Die Genossenschaft bezweckt die Förderung der Wirtschaft und des
+    Erwerbs der Mitglieder mittels gemeinschaftlichen
+    Geschäftsbetriebes.
+
+1. Der Gegenstand der Genossenschaft ist:
+
+    a)  die Entwicklung sowie Pflege und Wartung von IT‐Verfahren zur
+        Unterstützung der Mitglieder bei der Aufgabenerfüllung sowie die
+        Mitwirkung bei deren Einführung und Anwendung;
+
+    a)  Bereitstellung von IT‐Diensten einschließlich der Erbringung
+        informationstechnischer und beratender Dienstleistungen für
+        Mitglieder.
+
+1. Die Geschäfte mit Nichtmitgliedern sind zulässig.
+
+1. Die Genossenschaft kann sich an anderen Unternehmen beteiligen, wenn
+    dies der Förderung der Mitglieder dient.
+
+# Mitgliedschaft
+
+1. Zum Erwerb der Mitgliedschaft bedarf es einer unbedingten
+    schriftlichen Beitrittserklärung, über die der Vorstand entscheidet.
+
+1. Mitglieder können werden:
+
+    a)  Beschäftigte der Genossenschaft
+
+    a)  alle, die zur Gründung der Genossenschaft beigetragen haben.
+
+1. Die Mitgliedschaft endet durch:
+
+    a)  Kündigung,
+
+    a)  Übertragung des gesamten Geschäftsguthabens,
+
+    a)  Tod, bzw. Auflösung einer juristischen Person oder einer
+        Personengesellschaft oder
+
+    a)  Ausschluss.
+
+# Geschäftsanteil
+
+1. Der Geschäftsanteil beträgt 500 €. Er ist sofort in voller Höhe
+    einzuzahlen.
+
+1. Jedes Mitglied darf sich mit mehr als einem Geschäftsanteil
+    beteiligen. Über die Zulassung entscheiden Vorstand und die
+    bevollmächtigte Person der Generalversammlung gemeinsam.
+
+1. Die Beteiligung eines Mitglieds mit einem zweiten Geschäftsanteil
+    darf mit Ausnahme bei einer Pflichtbeteiligung erst zugelassen
+    werden, wenn der erste Geschäftsanteil voll eingezahlt ist; das
+    gleiche gilt für Beteiligung mit weiteren Geschäftsanteilen.
+
+# Ausschluss der Nachschusspflicht
+
+1. Die Mitglieder sind nicht zur Leistung von Nachschüssen
+    verpflichtet.
+
+# Rechte der Mitglieder
+
+1. Alle Mitglieder haben, unabhängig von ihren Geschäftsanteilen, eine
+    Stimme in der Generalversammlung und der Online-Generalversammlung.
+
+1. Jedes Mitglied hat das Recht, im Rahmen des Gesetzes die Leistungen
+    in Anspruch zu nehmen und an der Gestaltung der Genossenschaft
+    mitzuwirken.
+
+1. Alle Mitglieder haben das Recht auf der Generalversammlung Einsicht
+    in das zusammengefasste Prüfungsergebnis zu nehmen.
+
+1. Alle Mitglieder haben das Recht das Protokoll der Generalversammlung
+    einzusehen.
+
+1. Alle Mitglieder haben das Recht die Mitgliederliste einzusehen.
+
+# Pflichten der Mitglieder
+
+1. Jedes Mitglied verpflichtet sich, die auf den Geschäftsanteil
+    vorgeschriebenen Einzahlungen zu leisten.
+
+1. Jedes Mitglied ist verpflichtet die Interessen der Genossenschaft zu
+    wahren.
+
+1. Jedes Mitglied hat den Bestimmungen des Genossenschaftsgesetzes, der
+    Satzung und den Beschlüssen der Organe nachzukommen.
+
+1. Alle Mitglieder haben die Pflicht innerhalb von drei Wochen eine
+    Änderung ihrer Anschrift dem Vorstand mitzuteilen.
+
+1. Das Mitglied ist verpflichtet, interne Informationen, Vorgänge oder
+    sonstige Dinge, die der Genossenschaft erheblichen Schaden können
+    zufügen können, nicht an unbeteiligte Dritte weiterzugeben.
+
+# Kündigung
+
+1. Die Frist für die Kündigung der Mitgliedschaft oder einzelner,
+    freiwilliger Anteile beträgt 6 Monate zum Schluss des
+    Geschäftsjahres.
+
+1. Die Kündigung bedarf der Schriftform.
+
+# Übertragung des Geschäftsguthabens
+
+1. Jedes Mitglied kann sein Geschäftsguthaben jederzeit durch
+    schriftliche Vereinbarung einem anderen ganz oder teilweise
+    übertragen und hierdurch seine Mitgliedschaft ohne
+    Auseinandersetzung beenden oder die Anzahl seiner Geschäftsanteile
+    verringern, sofern der Erwerber Mitglied der Genossenschaft wird
+    oder bereits ist und das zu übertragende Geschäftsguthaben zusammen
+    mit dem bisherigen Geschäftsguthaben den Gesamtbetrag der
+    Geschäftsanteile, mit denen der Erwerber beteiligt ist oder sich
+    zulässig beteiligt, nicht überschritten wird.
+
+1. Die Übertragung des Geschäftsguthabens bedarf der Zustimmung des
+    Vorstandes.
+
+# Tod / Auflösung einer juristischen Person oder Personengesellschaft
+
+1. Mit dem Tod eines Mitglieds geht die Mitgliedschaft auf den Erben
+    über. Sie endet mit dem Schluss des Geschäftsjahres, in dem der
+    Erbfall eingetreten ist.
+
+1. Wird eine juristische Person oder eine Personengesellschaft
+    aufgelöst oder erlischt sie, so endet die Mitgliedschaft mit dem
+    Schluss des Geschäftsjahres, in dem die Auflösung oder das Erlöschen
+    wirksam geworden ist. Im Falle der Gesamtrechtsnachfolge wird die
+    Mitgliedschaft bis zum Schluss des Geschäftsjahres durch den
+    Gesamtrechtsnachfolger fortgesetzt.
+
+# Ausschluss
+
+1. Mitglieder können zum Schluss eines Geschäftsjahres ausgeschlossen
+    werden, wenn
+
+    a)  sie die Genossenschaft schädigen,
+
+    a)  sie die gegenüber der Genossenschaft bestehenden Pflichten trotz
+        Mahnung unter Androhung des Ausschlusses nicht erfüllen,
+
+    a)  sie unter der der Genossenschaft bekannt gegebenen Anschrift
+        dauernd nicht erreichbar sind.
+
+    a)  wenn ein Angestelltenverhältnis mit einem Mitglied wegen
+        schwerer Pflichtverletzungen gekündigt wird oder wurde;
+
+    a)  wenn es unrichtige oder unvollständige Erklärungen über seine
+        rechtlichen und/oder wirtschaftlichen Verhältnisse abgibt;
+
+    a)  wenn es ein eigenes mit der Genossenschaft in Wettbewerb
+        stehendes Unternehmen betreibt oder sich an einen solchen
+        beteiligt, oder wenn ein mit der Genossenschaft in Wettbewerb
+        stehendes Unternehmen sich an dem Unternehmen des Mitglieds
+        beteiligt.
+
+1. Über den Ausschluss entscheidet die Generalversammlung unter
+    Berücksichtigung der Mehrheitserfordernisse.
+
+1. Das Mitglied muss vorher angehört werden, es sei denn, dass der
+    Aufenthalt eines Mitgliedes nicht ermittelt werden kann.
+
+1. Der Beschluss, durch den das Mitglied ausgeschlossen wird, ist dem
+    Mitglied vom Vorstand unverzüglich durch eingeschriebenen Brief
+    mitzuteilen.
+
+1. Das Mitglied verliert ab dem Zeitpunkt der Absendung der Mitteilung
+    das Recht auf Teilnahme an der Generalversammlung oder der
+    Vertreterversammlung sowie seine Mitgliedschaft im Vorstand, sein
+    Amt als bevollmächtigte Person oder Revisor.
+
+# Auseinandersetzung
+
+1. Das Ausscheiden aus der Genossenschaft hat die Auseinandersetzung
+    zwischen dem ausgeschiedenen Mitglied bzw. dessen Erben und der
+    Genossenschaft zur Folge. Die Auseinandersetzung unterbleibt im
+    Falle der Übertragung von Geschäftsguthaben.
+
+1. Die Auseinandersetzung erfolgt aufgrund des von der
+    Generalversammlung festgestellten Jahresabschlusses. Das nach der
+    Auseinandersetzung sich ergebende Guthaben ist dem Mitglied binnen
+    sechs Monaten nach seinem Ausscheiden auszuzahlen. Auf die Rücklagen
+    und das sonstige Vermögen der Genossenschaft hat das ausgeschiedene
+    Mitglied keinen Anspruch.
+
+1. Beim Auseinandersetzungsguthaben werden Verlustvorträge anteilig
+    abgezogen.
+
+1. Wird die Genossenschaft binnen sechs Monaten nach dem Ausscheiden
+    des Mitglieds aufgelöst, so gilt das Ausscheiden als nicht erfolgt.
+
+# Generalversammlung
+
+1. Die Generalversammlung wird durch unmittelbare Benachrichtigung
+    sämtlicher Mitglieder in Textform einberufen.
+
+1. Die Generalversammlung wird durch den Vorstand oder die
+    bevollmächtigten Person der Generalversammlung einberufen.
+
+1. Die Einladung zur Generalversammlung muss mindestens zwei Wochen vor
+    der Generalversammlung in Textform erfolgen. Bei der Einberufung ist
+    die Tagesordnung bekannt zu machen. Ergänzungen der
+    Beschlussgegenstände müssen den Mitgliedern mindestens eine Woche
+    vor der Generalversammlung in Textform angekündigt werden. Die
+    Mitteilungen gelten als zugegangen, wenn sie zwei Werktage vor
+    Beginn der Frist abgesendet worden sind.
+
+1. Die Generalversammlung findet am Sitz der Genossenschaft statt,
+    sofern nicht der Vorstand mit Zustimmung der bevollmächtigten Person
+    der Generalversammlung einen anderen Ort festlegt.
+
+1. Jede ordnungsgemäß einberufene Generalversammlung ist unabhängig von
+    der Zahl der Teilnehmer beschlussfähig.
+
+1. Jedes Mitglied hat eine Stimme.
+
+1. Die Mitglieder können Stimmrechtsvollmachten erteilen. Kein
+    Bevollmächtigter darf mehr als zwei Mitglieder vertreten.
+    Bevollmächtigte können nur Mitglieder der Genossenschaft, Ehegatten,
+    eingetragene Lebenspartner, Eltern der Kinder eines Mitglieds oder
+    Angestellte von juristischen Personen oder Personengesellschaften
+    sein.
+
+1. Mehrheitserfordernisse für Abstimmungen sind in \$ 14 definiert.
+
+1. Die Generalversammlung bestimmt die Versammlungsleitung auf
+    Vorschlag des Vorstands.
+
+10. Die Beschlüsse werden gem. § 47 GenG protokolliert.
+
+# Online-Generalversammlung
+
+1. Die Generalversammlung kann auf der Website der Genossenschaft als
+    Online-Generalversammlung abgehalten werden. Die
+    Online-Generalversammlung besteht aus einer Diskussionsphase und
+    einer anschließenden Abstimmungsphase.
+
+1. Mit der Einladung zur der Online-Generalversammlung erhalten die
+    Mitglieder Zugangsdaten für die Teilnahme an der Diskussion und der
+    Abstimmung, sowie den Beginn und das Ende der Diskussions- und
+    Abstimmungsphase.
+
+1. Die Online-Generalversammlung wird von einem vom Vorstand bestimmten
+    Mitglied des Vorstands geleitet.
+
+1. Die Diskussionen finden geschützt in einer geschlossenen
+    Benutzergruppe statt. Zu jedem Tagesordnungspunkt werden
+    Diskussionsbereiche eingerichtet, diese können vom
+    Versammlungsleiter in Unterthemen gegliedert werden. Jedes Mitglied
+    hat Diskussionsrecht. Anzahl und Umfang der Diskussionsbeiträge sind
+    nicht beschränkt. Die Diskussionsphase dauert mindestens drei
+    Wochen. Der Vorstand kann eine längere Diskussionsphase festlegen.
+
+1. Die Abstimmungsphase hat eine Dauer von sieben Tagen. Die Abstimmung
+    erfolgt offen und namentlich. Die Abgabe einer Stimme erfolgt durch
+    ein elektronisches Verfahren, das die Transparenz und
+    Nachprüfbarkeit einer Stimmabgabe durch die Mitglieder sicherstellt.
+    Das konkrete Abstimmungsverfahren wird vom Vorstand festgelegt.
+    Jedes Mitglied kann bis drei Tage vor Beginn der Abstimmungsphase im
+    Rahmen der angekündigten Beschlussgegenstände Anträge stellen und
+    bereits gestellte eigene Anträge abändern oder zurückziehen. Der
+    Versammlungsleiter entscheidet darüber ob über Anträge alternativ
+    oder jeweils getrennt abgestimmt wird. Nach der Abstimmungsphase
+    stellt der Versammlungsleiter unverzüglich das Abstimmungsergebnis
+    fest und teilt es den Mitgliedern mit.
+
+1. Der Versammlungsleiter erstellt ein Protokoll der
+    Online-Generalversammlung, das mindestens folgende Informationen
+    enthält:
+
+    a)  das Datum des Beginns der Diskussionsphase
+
+    a)  das Datum des Beginns und des Endes der Abstimmungsphase
+
+    a)  die Namen der Mitglieder, die an der Abstimmung teilgenommen
+        haben,
+
+    a)  den Wortlaut der Anträge, die Abstimmungsergebnisse und
+        Äußerungen, deren Aufnahme in das Protokoll ausdrücklich
+        verlangt wurde.
+
+1. Das Protokoll wird vom Versammlungsleiter und allen
+    Vorstandsmitgliedern unterschrieben und auf der Website der
+    Genossenschaft im geschützten Mitgliederbereich veröffentlicht.
+    Gegen das Protokoll kann innerhalb von sieben Tagen nach
+    Veröffentlichung Einspruch erhoben werden.
+
+# Mehrheitserfordernisse
+
+1. Es wird angestrebt Entscheidungen im Konsens zu treffen.
+
+1. Die Beschlüsse der Generalversammlung bedürfen der einfachen
+    Mehrheit der gültigen abgegebenen Stimmen, soweit nicht das Gesetz
+    oder diese Satzung eine größere Mehrheit vorschreibt.
+
+1. Eine Mehrheit von drei Vierteln der gültigen abgegebenen Stimmen ist
+    in folgenden Fällen erforderlich:
+
+    a)  Änderung der Satzung;
+
+    a)  Austritt aus genossenschaftlichen Verbänden;
+
+    a)  Verschmelzung, Spaltung und Formwechsel der Genossenschaft;
+
+    a)  Aufnahme, Übertragung oder Aufgabe eines wesentlichen
+        Geschäftsbereichs,
+
+    a)  Auflösung der Genossenschaft;
+
+    a)  Fortsetzung der Genossenschaft nach beschlossener Auflösung;
+
+    a)  Ausschluss von Mitgliedern.
+
+# Bevollmächtigte Person, Revisionskommission
+
+1. Es wird kein Aufsichtsrat gebildet.
+
+1. Die Generalversammlung wählt aus ihrer eine bevollmächtigte Person
+    und bestimmt deren Amtszeit.
+
+1. Die Amtszeit der bevollmächtigten Person dauert fort bis zur
+    ordentlichen Generalversammlung, die auf den formellen Ablauf der
+    Amtszeit folgt.
+
+1. Die bevollmächtigte Person vertritt gemäß § 39 Abs. 1 S. 2 GenG die
+    Genossenschaft gegenüber den Vorstandsmitgliedern im Rahmen der
+    Beschlüsse der Generalversammlung und übernimmt gemäß § 57 Abs. 6
+    GenG im Rahmen der gesetzlichen Prüfung die Aufgaben, die ansonsten
+    ein Aufsichtsratsvorsitzender gehabt hätte (gesetzliche Aufgaben).
+
+1. Zusätzlich übernimmt sie nach § 38 Absatz 1 Satz 3 in Verbindung mit
+    § 9 Absatz 1 Satz 3 GenG die Prüfung des Jahresabschlusses und die
+    Kenntnisnahme des Prüfungsberichtes und berichtet der
+    Generalversammlung über die Ergebnisse; die grundsätzliche
+    Verantwortlichkeit der Generalversammlung bleibt hiervon unberührt.
+
+1. Die Generalversammlung kann zur Unterstützung der bevollmächtigten
+    Person bei der Erfüllung der Aufgaben nach Absatz 3 Revisoren
+    wählen. Die Amtszeit der Revisoren entspricht der Amtszeit der
+    gewählten bevollmächtigten Person.
+
+1. Die bevollmächtigte Person ist befugt, nach freiem Ermessen
+    Mitglieder des Vorstands vorläufig, bis zur Entscheidung der
+    unverzüglich einzuberufenden Generalversammlung, von ihren
+    Geschäften zu entheben.
+
+# Vorstand
+
+1. Der Vorstand besteht aus mindestens einem Mitglied.
+
+1. Die Generalversammlung bestimmt die Anzahl, wählt die Mitglieder des
+    Vorstands.
+
+1. Die Amtszeit dauert bis zur ordentlichen Generalversammlung drei
+    Jahre nach der Wahl.
+
+1. Besteht der Vorstand aus mehreren Mitgliedern, kann er auch
+    schriftlich, telefonisch und auf elektronischem Wege Beschlüsse
+    fassen, wenn kein Vorstandsmitglied diesem Weg der Beschlussfassung
+    widerspricht.
+
+1. Die Genossenschaft wird durch zwei Vorstandsmitglieder vertreten.
+    Hat die Genossenschaft nur ein Vorstandsmitglied, vertritt dieses
+    die Genossenschaft alleine.
+
+1. Der Vorstand führt die Genossenschaft in eigener Verantwortung. Er
+    bedarf der Zustimmung des Generalversammlung für
+
+    a)  Investitionen oder Aufnahme von Krediten,
+
+    a)  Abschlüsse von Miet-, Pacht- oder Leasingverträgen, sowie
+        anderen Verträgen mit wiederkehrenden Verpflichtungen mit einer
+        Laufzeit von mehr als 3 Jahren und/oder einer jährlichen
+        Belastung von mehr als 2.000 €,
+
+    a)  die Errichtung und Schließung von Filialen,
+
+    a)  die Gründung von Unternehmen und die Beteiligung an anderen
+        Unternehmen,
+
+    a)  das Auslagern von Aufgaben und Tätigkeiten an externe
+        Dienstleister oder Tochtergesellschaften,
+
+    a)  sämtliche Grundstücksgeschäfte,
+
+    a)  Erteilung von Prokura und
+
+    a)  die Aufstellung und Änderung der Geschäftsordnung für den
+        Vorstand.
+
+1. Der Vorstand hat mit der Generalversammlungen Wirtschafts- und
+    Stellenplan zu beraten. Er hat der Generalversammlung mindestens
+    vierteljährlich, auf Verlangen oder bei wichtigem Anlass
+    unverzüglich, über die geschäftliche Entwicklung der Genossenschaft
+    zu berichten. Dabei muss er auf Abweichungen vom Wirtschafts- und
+    Stellenplan eingehen.
+
+1. Der Vorstand bedarf für die Aufnahme des 21. Mitgliedes der
+    Zustimmung der Generalversammlung. Bei der Einladung zu dieser
+    Generalversammlung soll der Vorstand Wahlen zum Aufsichtsrat und
+    ggfs. Vorstand, sowie entsprechende Satzungsänderungen auf die
+    Tagesordnung zu setzen.
+
+1. Der Vorstand kann vorzeitig nur von der Generalversammlung abberufen
+    werden.
+
+# Gemeinsame Vorschriften für die Organe
+
+1. Niemand kann für sich oder einen anderen das Stimmrecht ausüben,
+    wenn darüber Beschluss gefasst wird, ob er oder das vertretene
+    Mitglied zu entlasten oder von einer Verbindlichkeit zu befreien ist
+    oder ob die Genossenschaft gegen ihn oder das vertretene Mitglied
+    einen Anspruch geltend machen soll.
+
+1. Wird über Angelegenheiten der Genossenschaft beraten, die die
+    Interessen eines Organmitglieds, seines Ehegatten, seiner Eltern,
+    Kinder und Geschwister oder von ihm kraft Gesetzes oder Vollmacht
+    vertretenen Person berühren, so darf das betreffende Mitglied an der
+    Beratung nicht teilnehmen. Das Mitglied ist jedoch vor der
+    Beschlussfassung zu hören.
+
+# Gewinnverteilung, Verlustdeckung, Rückvergütung und Rücklagen
+
+1. Über den bei der Feststellung des Jahresabschlusses sich ergebenden
+    Gewinn oder Verlust des Geschäftsjahres entscheidet die
+    Generalversammlung innerhalb von sechs Monaten nach Schluss des
+    Geschäftsjahres.
+
+1. Die Generalversammlung kann einen Verlust aus Rücklagen decken, auf
+    neue Rechnung vortragen oder auf die Mitglieder verteilen.
+
+1. Bei einem Gewinn kann die Generalversammlung nach Zuführung des
+    erforderlichen Anteils in die gesetzliche Rücklage und der
+    Verzinsung von Geschäftsguthaben den verbleibenden Gewinn in die
+    freie Rücklage einstellen, auf neue Rechnung vortragen oder diesen
+    an die Mitglieder verteilen.
+
+1. Die Verteilung von Verlust und Gewinn auf die Mitglieder geschieht
+    im Verhältnis des Standes der Geschäftsguthaben am Schluss des
+    vorhergegangenen Geschäftsjahres.
+
+1. Eine Auszahlung von Gewinnen erfolgt erst bei vollständig
+    aufgefüllten Geschäftsguthaben.
+
+1. Der gesetzlichen Rücklage sind mindestens 20% des Jahresüberschusses
+    zuzuführen, bis mindestens 100% der Summe der Geschäftsanteile
+    erreicht sind.
+
+1. Die Mitglieder haben Anspruch auf die vom Vorstand mit Zustimmung
+    der Generalversammlung beschlossene Rückvergütung.
+
+1. Ansprüche auf Auszahlung von Gewinnen, Rückvergütungen und
+    Auseinandersetzungsguthaben verjähren in zwei Jahren ab Fälligkeit.
+    Die Beträge werden den Rücklagen zugeführt.
+
+# Bekanntmachungen
+    Bekanntmachungen, deren Veröffentlichung vorgeschrieben ist,
+    erfolgen unter der Firma der Genossenschaft im elektronischen
+    Bundesanzeiger und unter www.genossenschaftsbekanntmachungen.de.
