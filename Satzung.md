@@ -103,8 +103,7 @@ standalone: true
 
 # Ausschluss der Nachschusspflicht
 
-1. Die Mitglieder sind nicht zur Leistung von Nachschüssen
-    verpflichtet.
+Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
 
 # Rechte der Mitglieder
 
