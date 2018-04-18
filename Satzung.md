@@ -7,30 +7,18 @@ standalone: true
 ---
 
 <style type="text/css">
-  body {
-    font-family: Montserrat;
-  }
-
-  header {
-    text-align: center;
-  }
-
-  header h1 {
-    font-size: 2.5em;
-  }
-
-  header h1:before {
-    content: "";
+  #satzung {
+    counter-reset: h1counter;
   }
 
   h1:before {
-    content: "§ "
+    counter-increment: h1counter;
+    content: "§" counter(h1counter) "\0000a0"
   }
 
   h1 {
     font-size: 1.5em;
   }
-
 </style>
 
 # Name, Sitz
