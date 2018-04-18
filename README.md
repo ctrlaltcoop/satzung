@@ -1,35 +1,27 @@
-# creating our Satzung with pandoc
+# creating our statute with pandoc
 
-Since [libreoffice](https://www.libreoffice.org/) drove us crazy with line 
-numbering we decided to use latex. But because a third party requested a 
-.doc-document we found out it is really hard to transform latex into an odt /
-doc.
+To use the make file you will need pandoc and libreoffice.
 
-So the next attempt is pandoc.
+Edit Satzung.md as needed.
 
-First we transformed out tex-document to md with 
-`pandoc -f latex -t markdown -o Satzung.md Satzung.pdf`.
+`make` will generate an Satzung.odt, Satzung.pdf and Satzung.docx.
 
-This worked quite well.
+`make odt` will only generate *Satzung.odt*.
+`make pdf`, `make docx` will generate the odt and the file with the respective
+ending.
 
-Then we decided to use CSS to style the document.
+`make clean` will delete all generated files.
 
-Sadly we found out that only html and pdf (via the wkhtml2pdf program) support
-CSS styling.
+# Satzung mit pandoc erstellen 
 
-But we wanted a doc or a odt!
+Um das script zu nutzen muss pandoc und libreoffice installiert sein.
 
-So diving into the [pandoc manual](https://pandoc.org/MANUAL.html) we found the 
-`--reference-doc=` option.
+Passen Sie *Satzung.md* wie benötigt an.
 
-[markdow-resume](https://github.com/sdsawtelle/markdown-resume) by [sdawtelle](https://github.com/sdsawtelle) has been quite helpfull as well.
+`make` wird Satzung.odt, Satzung.pdf und Satzung.docx erstellen.
 
-Create the reference file via 
-`pandoc --print-default-data-file reference.odt > custom-reference.odt`
+`make odt` erstellt nur *Satzung.odt*
+`make pdf`, `make docx` erstellen *Satzung.odt* und die Datei mit der
+entsprechenden Endung.
 
-Then run `pandoc -f markdown --reference-doc=custom-reference.odt -o style.odt Satzung.md`
-
-Now modify style.odt in libreoffice and save it as style.odt and style.docx.
-Verify style.docx looks the way you want as well.
-
-You can now generate your files.
+`make clean` löscht alle erstellten Dateien.
