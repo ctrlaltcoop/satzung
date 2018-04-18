@@ -33,11 +33,6 @@ standalone: true
 
 </style>
 
-\maketitle
-\sffamily
-\tableofcontents
-\newpage
-
 # Name, Sitz
 
 1. Die Genossenschaft heißt "ctrl.alt.coop eG".
