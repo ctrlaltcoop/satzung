@@ -53,11 +53,12 @@ standalone: true
 1. Zum Erwerb der Mitgliedschaft bedarf es einer unbedingten
     schriftlichen Beitrittserklärung, über die der Vorstand entscheidet.
 
-1. Mitglieder können werden:
+1. Mitglieder können natürliche und juristische Personen sowie 
+   Personengesellschaften werden, die
 
-    a)  Beschäftigte der Genossenschaft
+    a)  Beschäftigte der Genossenschaft sind
 
-    a)  alle, die zur Gründung der Genossenschaft beigetragen haben.
+    a)  oder zur Gründung der Genossenschaft beigetragen haben.
 
 1. Die Mitgliedschaft endet durch:
 
@@ -76,19 +77,21 @@ standalone: true
     einzuzahlen.
 
 1. Jedes Mitglied darf sich mit mehr als einem Geschäftsanteil
-    beteiligen. Über die Zulassung entscheiden Vorstand und die
-    bevollmächtigte Person der Generalversammlung gemeinsam.
+    beteiligen.
+
+1. Kein Mitglied darf mehr als ein Drittel der Geschäftsanteile halten.
 
 1. Die Beteiligung eines Mitglieds mit einem zweiten Geschäftsanteil
-    darf mit Ausnahme bei einer Pflichtbeteiligung erst zugelassen
-    werden, wenn der erste Geschäftsanteil voll eingezahlt ist; das
-    gleiche gilt für Beteiligung mit weiteren Geschäftsanteilen.
+    darf erst zugelassen werden, wenn der erste Geschäftsanteil voll eingezahlt
+    ist; das gleiche gilt für Beteiligung mit weiteren Geschäftsanteilen.
 
 # Ausschluss der Nachschusspflicht
 
 Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
 
 # Rechte der Mitglieder
+
+1. Alle Mitglieder haben das Recht an der Generalversammlung teilzunehmen.
 
 1. Alle Mitglieder haben, unabhängig von ihren Geschäftsanteilen, eine
     Stimme in der Generalversammlung und der Online-Generalversammlung.
@@ -97,13 +100,23 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
     in Anspruch zu nehmen und an der Gestaltung der Genossenschaft
     mitzuwirken.
 
-1. Alle Mitglieder haben das Recht auf der Generalversammlung Einsicht
-    in das zusammengefasste Prüfungsergebnis zu nehmen.
+1. Alle Mitglieder habe das Reucht auf Einsicht in das zusammengefasste Ergebnis
+    des Berichts über die Prüfung des Prüfungsverbands zu nehmen.
 
 1. Alle Mitglieder haben das Recht das Protokoll der Generalversammlung
     einzusehen.
 
 1. Alle Mitglieder haben das Recht die Mitgliederliste einzusehen.
+
+1. Alle Mitglieder haben das Recht rechtzeitig vor Feststellung des
+    Jahresabschlusses durch die Generalversammlung auf ihre Kosten eine
+    Abschrift des Jahresabschlusses und des Lageberichts (soweit gesetzlich
+    erforderlich) zu verlangen.
+
+1. Alle Mitglieder haben das Recht sich an Verlangen von einem Zehntel der
+   Mitglieder auf Einberufung der Generalversammlung oder Ankündigung von
+   Beschlussgegenständen zu beteiligen.
+
 
 # Pflichten der Mitglieder
 
@@ -120,8 +133,8 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
     Änderung ihrer Anschrift dem Vorstand mitzuteilen.
 
 1. Das Mitglied ist verpflichtet, interne Informationen, Vorgänge oder
-    sonstige Dinge, die der Genossenschaft erheblichen Schaden können
-    zufügen können, nicht an unbeteiligte Dritte weiterzugeben.
+    sonstige Dinge, die der Genossenschaft erheblichen Schaden zufügen können, 
+    nicht an unbeteiligte Dritte weiterzugeben.
 
 # Kündigung
 
@@ -197,7 +210,7 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
 1. Das Mitglied verliert ab dem Zeitpunkt der Absendung der Mitteilung
     das Recht auf Teilnahme an der Generalversammlung oder der
     Vertreterversammlung sowie seine Mitgliedschaft im Vorstand, sein
-    Amt als bevollmächtigte Person oder Revisor.
+    Amt als Bevollmächtigter oder Revisor.
 
 # Auseinandersetzung
 
@@ -216,16 +229,13 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
 1. Beim Auseinandersetzungsguthaben werden Verlustvorträge anteilig
     abgezogen.
 
-1. Wird die Genossenschaft binnen sechs Monaten nach dem Ausscheiden
-    des Mitglieds aufgelöst, so gilt das Ausscheiden als nicht erfolgt.
-
 # Generalversammlung
 
 1. Die Generalversammlung wird durch unmittelbare Benachrichtigung
     sämtlicher Mitglieder in Textform einberufen.
 
-1. Die Generalversammlung wird durch den Vorstand oder die
-    bevollmächtigten Person der Generalversammlung einberufen.
+1. Die Generalversammlung wird durch den Vorstand oder der Bevollmächtigte der
+    Generalversammlung einberufen.
 
 1. Die Einladung zur Generalversammlung muss mindestens zwei Wochen vor
     der Generalversammlung in Textform erfolgen. Bei der Einberufung ist
@@ -236,7 +246,7 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
     Beginn der Frist abgesendet worden sind.
 
 1. Die Generalversammlung findet am Sitz der Genossenschaft statt,
-    sofern nicht der Vorstand mit Zustimmung der bevollmächtigten Person
+    sofern nicht der Vorstand mit Zustimmung des Bevollmächtigten
     der Generalversammlung einen anderen Ort festlegt.
 
 1. Jede ordnungsgemäß einberufene Generalversammlung ist unabhängig von
@@ -251,7 +261,7 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
     Angestellte von juristischen Personen oder Personengesellschaften
     sein.
 
-1. Mehrheitserfordernisse für Abstimmungen sind in \$ 14 definiert.
+1. Mehrheitserfordernisse für Abstimmungen sind in \$ 15 definiert.
 
 1. Die Generalversammlung bestimmt die Versammlungsleitung auf
     Vorschlag des Vorstands.
@@ -326,8 +336,6 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
 1. Eine Mehrheit von drei Vierteln der gültigen abgegebenen Stimmen ist
     in folgenden Fällen erforderlich:
 
-    a)  Änderung der Satzung;
-
     a)  Austritt aus genossenschaftlichen Verbänden;
 
     a)  Verschmelzung, Spaltung und Formwechsel der Genossenschaft;
@@ -341,18 +349,23 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
 
     a)  Ausschluss von Mitgliedern.
 
-# Bevollmächtigte Person, Revisionskommission
+1. Eine Mehrheit von neun Zehnteln der gültigen abgegebenen Stimmen ist
+    in folgenden Fällen erforderlich:
+
+    a)  Änderung der Satzung;
+
+# Bevollmächtigter, Revisionskommission
 
 1. Es wird kein Aufsichtsrat gebildet.
 
-1. Die Generalversammlung wählt aus ihrer eine bevollmächtigte Person
-    und bestimmt deren Amtszeit.
+1. Die Generalversammlung wählt aus ihrer Mitte einen Bevollmächtigten 
+    und bestimmt dessen Amtszeit.
 
-1. Die Amtszeit der bevollmächtigten Person dauert fort bis zur
+1. Die Amtszeit des Bevollmächtigten dauert fort bis zur
     ordentlichen Generalversammlung, die auf den formellen Ablauf der
     Amtszeit folgt.
 
-1. Die bevollmächtigte Person vertritt gemäß § 39 Abs. 1 S. 2 GenG die
+1. Der Bevollmächtigte vertritt gemäß § 39 Abs. 1 S. 2 GenG die
     Genossenschaft gegenüber den Vorstandsmitgliedern im Rahmen der
     Beschlüsse der Generalversammlung und übernimmt gemäß § 57 Abs. 6
     GenG im Rahmen der gesetzlichen Prüfung die Aufgaben, die ansonsten
@@ -364,21 +377,16 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
     Generalversammlung über die Ergebnisse; die grundsätzliche
     Verantwortlichkeit der Generalversammlung bleibt hiervon unberührt.
 
-1. Die Generalversammlung kann zur Unterstützung der bevollmächtigten
-    Person bei der Erfüllung der Aufgaben nach Absatz 3 Revisoren
-    wählen. Die Amtszeit der Revisoren entspricht der Amtszeit der
-    gewählten bevollmächtigten Person.
-
-1. Die bevollmächtigte Person ist befugt, nach freiem Ermessen
-    Mitglieder des Vorstands vorläufig, bis zur Entscheidung der
-    unverzüglich einzuberufenden Generalversammlung, von ihren
-    Geschäften zu entheben.
+1. Die Generalversammlung kann zur Unterstützung des Bevollmächtigten
+    bei der Erfüllung der Aufgaben nach Absatz 3 Revisoren
+    wählen. Die Amtszeit der Revisoren entspricht der Amtszeit des
+    gewählten Bevollmächtigten.
 
 # Vorstand
 
 1. Der Vorstand besteht aus mindestens einem Mitglied.
 
-1. Die Generalversammlung bestimmt die Anzahl, wählt die Mitglieder des
+1. Die Generalversammlung bestimmt die Anzahl und  wählt die Mitglieder des
     Vorstands.
 
 1. Die Amtszeit dauert bis zur ordentlichen Generalversammlung drei
@@ -396,43 +404,42 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
 1. Der Vorstand führt die Genossenschaft in eigener Verantwortung. Er
     bedarf der Zustimmung des Generalversammlung für
 
-    a)  Investitionen oder Aufnahme von Krediten,
+    a) Investitionen oder Aufnahme von Krediten,
 
-    a)  Abschlüsse von Miet-, Pacht- oder Leasingverträgen, sowie
-        anderen Verträgen mit wiederkehrenden Verpflichtungen mit einer
-        Laufzeit von mehr als 3 Jahren und/oder einer jährlichen
-        Belastung von mehr als 2.000 €,
+    a) Abschlüsse von Miet-, Pacht- oder Leasingverträgen, sowie
+       anderen Verträgen mit wiederkehrenden Verpflichtungen mit einer
+       Laufzeit von mehr als 3 Jahren und/oder einer jährlichen
+       Belastung von mehr als 2.000 €,
 
-    a)  die Errichtung und Schließung von Filialen,
+    a) die Errichtung und Schließung von Filialen,
 
-    a)  die Gründung von Unternehmen und die Beteiligung an anderen
+    a) die Gründung von Unternehmen und die Beteiligung an anderen
         Unternehmen,
 
-    a)  das Auslagern von Aufgaben und Tätigkeiten an externe
+    a) das Auslagern von Aufgaben und Tätigkeiten an externe
         Dienstleister oder Tochtergesellschaften,
 
-    a)  sämtliche Grundstücksgeschäfte,
+    a) sämtliche Grundstücksgeschäfte,
 
-    a)  Erteilung von Prokura und
+    a) Erteilung von Prokura und
 
-    a)  die Aufstellung und Änderung der Geschäftsordnung für den
-        Vorstand.
+    a) die Aufstellung und Änderung der Geschäftsordnung für den
+        Vorstand,
+
+    a) den Ausschluss eines Mitglieds,
+
+    a) Aufnahme, Übertragung oder Aufgabe eines wesentlichen Geschäftsbereichs,
+
+    a) Austritt aus genossenschaftlichen Verbänden.
 
 1. Der Vorstand hat mit der Generalversammlungen Wirtschafts- und
-    Stellenplan zu beraten. Er hat der Generalversammlung mindestens
-    vierteljährlich, auf Verlangen oder bei wichtigem Anlass
-    unverzüglich, über die geschäftliche Entwicklung der Genossenschaft
-    zu berichten. Dabei muss er auf Abweichungen vom Wirtschafts- und
-    Stellenplan eingehen.
+    Stellenplan zu beraten.
 
 1. Der Vorstand bedarf für die Aufnahme des 21. Mitgliedes der
     Zustimmung der Generalversammlung. Bei der Einladung zu dieser
     Generalversammlung soll der Vorstand Wahlen zum Aufsichtsrat und
     ggfs. Vorstand, sowie entsprechende Satzungsänderungen auf die
     Tagesordnung zu setzen.
-
-1. Der Vorstand kann vorzeitig nur von der Generalversammlung abberufen
-    werden.
 
 # Gemeinsame Vorschriften für die Organe
 
@@ -460,9 +467,8 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
     neue Rechnung vortragen oder auf die Mitglieder verteilen.
 
 1. Bei einem Gewinn kann die Generalversammlung nach Zuführung des
-    erforderlichen Anteils in die gesetzliche Rücklage und der
-    Verzinsung von Geschäftsguthaben den verbleibenden Gewinn in die
-    freie Rücklage einstellen, auf neue Rechnung vortragen oder diesen
+    erforderlichen Anteils in die gesetzliche Rücklage den verbleibenden Gewinn
+    in die freie Rücklage einstellen, auf neue Rechnung vortragen oder diesen
     an die Mitglieder verteilen.
 
 1. Die Verteilung von Verlust und Gewinn auf die Mitglieder geschieht
@@ -485,5 +491,5 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
 
 # Bekanntmachungen
 Bekanntmachungen, deren Veröffentlichung vorgeschrieben ist,
-erfolgen unter der Firma der Genossenschaft im elektronischen
-Bundesanzeiger und unter www.genossenschaftsbekanntmachungen.de.
+erfolgen unter der Firma der Genossenschaft unter 
+www.genossenschaftsbekanntmachungen.de.
