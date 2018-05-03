@@ -105,7 +105,7 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
     in Anspruch zu nehmen und an der Gestaltung der Genossenschaft
     mitzuwirken.
 
-1. Alle Mitglieder habe das Reucht auf Einsicht in das zusammengefasste Ergebnis
+1. Alle Mitglieder habe das Recht auf Einsicht in das zusammengefasste Ergebnis
     des Berichts über die Prüfung des Prüfungsverbands zu nehmen.
 
 1. Alle Mitglieder haben das Recht das Protokoll der Generalversammlung
@@ -213,9 +213,9 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
     mitzuteilen.
 
 1. Das Mitglied verliert ab dem Zeitpunkt der Absendung der Mitteilung
-    das Recht auf Teilnahme an der Generalversammlung oder der
-    Vertreterversammlung sowie seine Mitgliedschaft im Vorstand, sein
-    Amt als Bevollmächtigter oder Revisor.
+    das Recht auf Teilnahme an der Generalversammlung, der
+    Onlinegeneralversammlung, sowie seine Mitgliedschaft im Vorstand, sein Amt
+    als Bevollmächtigter oder Revisor.
 
 # Auseinandersetzung
 
@@ -266,7 +266,7 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
     Angestellte von juristischen Personen oder Personengesellschaften
     sein.
 
-1. Mehrheitserfordernisse für Abstimmungen sind in \$ 15 definiert.
+1. Mehrheitserfordernisse für Abstimmungen sind in § 15 definiert.
 
 1. Die Generalversammlung bestimmt die Versammlungsleitung auf
     Vorschlag des Vorstands.
@@ -407,7 +407,7 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
     die Genossenschaft alleine.
 
 1. Der Vorstand führt die Genossenschaft in eigener Verantwortung. Er
-    bedarf der Zustimmung des Generalversammlung für
+    bedarf der Zustimmung der Generalversammlung für
 
     a) Investitionen oder Aufnahme von Krediten,
 
