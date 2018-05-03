@@ -35,13 +35,18 @@ standalone: true
 
 1. Der Gegenstand der Genossenschaft ist:
 
-    a)  die Entwicklung sowie Pflege und Wartung von IT‐Verfahren zur
-        Unterstützung der Mitglieder bei der Aufgabenerfüllung sowie die
-        Mitwirkung bei deren Einführung und Anwendung;
+    a)  die Konzeption, Entwicklung sowie Pflege und Wartung, als auch der
+        Vertrieb von IT-Lösungen;
 
-    a)  Bereitstellung von IT‐Diensten einschließlich der Erbringung
-        informationstechnischer und beratender Dienstleistungen für
-        Mitglieder.
+    a)  Mitwirkung und Beratung bei der Einführung, Änderung und Anwendung von
+        IT-Lösungen;
+
+    a)  Projektplanung und -management bei IT-Projekten;
+
+    a)  das Bereitstellen von IT‐Diensten einschließlich der Erbringung
+        informationstechnischer und beratender Dienstleistungen;
+
+    a)  Planung und Umsetzung von IT-Büroinfrastruktur.
 
 1. Die Geschäfte mit Nichtmitgliedern sind zulässig.
 
