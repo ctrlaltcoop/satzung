@@ -190,8 +190,8 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
     a)  sie unter der der Genossenschaft bekannt gegebenen Anschrift
         dauernd nicht erreichbar sind.
 
-    a)  wenn ein Angestelltenverhältnis mit einem Mitglied wegen
-        schwerer Pflichtverletzungen gekündigt wird oder wurde;
+    a)  wenn ein Angestelltenverhältnis mit einem Mitglied beendet- oder 
+        gekündigt wurde;
 
     a)  wenn es unrichtige oder unvollständige Erklärungen über seine
         rechtlichen und/oder wirtschaftlichen Verhältnisse abgibt;
@@ -340,6 +340,8 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
 
 1. Eine Mehrheit von drei Vierteln der gültigen abgegebenen Stimmen ist
     in folgenden Fällen erforderlich:
+    
+    a)  Änderung der Satzung; soweit das Gesetz nicht eine größere Mehrheit vorsieht
 
     a)  Austritt aus genossenschaftlichen Verbänden;
 
@@ -353,11 +355,6 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
     a)  Fortsetzung der Genossenschaft nach beschlossener Auflösung;
 
     a)  Ausschluss von Mitgliedern.
-
-1. Eine Mehrheit von neun Zehnteln der gültigen abgegebenen Stimmen ist
-    in folgenden Fällen erforderlich:
-
-    a)  Änderung der Satzung;
 
 # Bevollmächtigter, Revisionskommission
 
