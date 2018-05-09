@@ -193,7 +193,7 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
     a)  sie unter der der Genossenschaft bekannt gegebenen Anschrift
         dauernd nicht erreichbar sind.
 
-    a)  wenn ein Angestelltenverhältnis mit einem Mitglied beendet- oder 
+    a)  wenn ein Angestelltenverhältnis mit einem Mitglied aufgehoben oder 
         gekündigt wurde;
 
     a)  wenn es unrichtige oder unvollständige Erklärungen über seine

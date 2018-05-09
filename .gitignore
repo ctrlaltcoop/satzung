@@ -2,3 +2,6 @@ Satzung.pdf
 Satzung.odt
 Satzung.docx
 .idea
+.lock*
+.~lock*
+.swp
