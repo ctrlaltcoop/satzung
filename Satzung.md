@@ -23,7 +23,7 @@ standalone: true
 
 # Name, Sitz
 
-1. Die Genossenschaft heißt "ctrl.alt.coop eG".
+1. Die Genossenschaft heißt "control.alt.coop eG".
 
 1. Der Sitz der Genossenschaft ist Schöneiche bei Berlin.
 
@@ -58,12 +58,17 @@ standalone: true
 1. Zum Erwerb der Mitgliedschaft bedarf es einer unbedingten
     schriftlichen Beitrittserklärung, über die der Vorstand entscheidet.
 
-1. Mitglieder können natürliche und juristische Personen sowie 
-   Personengesellschaften werden, die
+1. Mitglieder können natürliche Personen werden, die
 
     a)  Beschäftigte der Genossenschaft sind
 
     a)  oder zur Gründung der Genossenschaft beigetragen haben.
+
+1. Mitglieder können desweiteren juristische Personen werden, die
+    
+    a) die Dienstleistungen der Genossenschaft beziehen
+    
+    a) oder anderweitig geschäftlich mit der Genossenschaft kooperieren
 
 1. Die Mitgliedschaft endet durch:
 
@@ -81,10 +86,8 @@ standalone: true
 1. Der Geschäftsanteil beträgt 500 €. Er ist sofort in voller Höhe
     einzuzahlen.
 
-1. Jedes Mitglied darf sich mit mehr als einem Geschäftsanteil
-    beteiligen.
-
-1. Kein Mitglied darf mehr als ein Drittel der Geschäftsanteile halten.
+1. Die Mitglieder können sich mit mehrereren Geschäftsanteilen an der Genossenschaft beteiligen.
+    Über die Zulassung entscheidet der Vorstand.
 
 1. Die Beteiligung eines Mitglieds mit einem zweiten Geschäftsanteil
     darf erst zugelassen werden, wenn der erste Geschäftsanteil voll eingezahlt
