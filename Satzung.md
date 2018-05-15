@@ -1,6 +1,6 @@
 ---
 title: "Satzung"
-date: "13.04.2018"
+date: "15.05.2018"
 numbersections: true
 standalone: true
 
