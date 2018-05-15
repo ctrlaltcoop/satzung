@@ -64,7 +64,7 @@ standalone: true
 
     a)  oder zur Gründung der Genossenschaft beigetragen haben.
 
-1. Mitglieder können desweiteren juristische Personen werden, die
+1. Mitglieder können desweiteren Personengesellschaften und juristische Personen werden, die
     
     a) die Dienstleistungen der Genossenschaft beziehen
     
@@ -419,17 +419,17 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
     a) die Errichtung und Schließung von Filialen,
 
     a) die Gründung von Unternehmen und die Beteiligung an anderen
-        Unternehmen,
+       Unternehmen,
 
     a) das Auslagern von Aufgaben und Tätigkeiten an externe
-        Dienstleister oder Tochtergesellschaften,
+       Dienstleister oder Tochtergesellschaften,
 
     a) sämtliche Grundstücksgeschäfte,
 
     a) Erteilung von Prokura und
 
     a) die Aufstellung und Änderung der Geschäftsordnung für den
-        Vorstand,
+       Vorstand,
 
     a) den Ausschluss eines Mitglieds,
 
@@ -438,13 +438,13 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
     a) Austritt aus genossenschaftlichen Verbänden.
 
 1. Der Vorstand hat mit der Generalversammlungen Wirtschafts- und
-    Stellenplan zu beraten.
+   Stellenplan zu beraten.
 
 1. Der Vorstand bedarf für die Aufnahme des 21. Mitgliedes der
     Zustimmung der Generalversammlung. Bei der Einladung zu dieser
     Generalversammlung soll der Vorstand Wahlen zum Aufsichtsrat und
     ggfs. Vorstand, sowie entsprechende Satzungsänderungen auf die
-    Tagesordnung zu setzen.
+    Tagesordnung setzen.
 
 # Gemeinsame Vorschriften für die Organe
 
