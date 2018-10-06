@@ -64,8 +64,8 @@ standalone: true
 
     a)  oder zur Gründung der Genossenschaft beigetragen haben.
 
-1. Mitglieder können desweiteren Personengesellschaften und juristische Personen werden, die
-    
+1. Mitglieder können desweiteren Personengesellschaften und juristische Personen
+    werden, die
     a) die Dienstleistungen der Genossenschaft beziehen
     
     a) oder anderweitig geschäftlich mit der Genossenschaft kooperieren
@@ -344,7 +344,8 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
 1. Eine Mehrheit von drei Vierteln der gültigen abgegebenen Stimmen ist
     in folgenden Fällen erforderlich:
     
-    a)  Änderung der Satzung; soweit das Gesetz nicht eine größere Mehrheit vorsieht
+    a)  Änderung der Satzung; soweit das Gesetz nicht eine größere Mehrheit
+        vorsieht
 
     a)  Austritt aus genossenschaftlichen Verbänden;
 
@@ -413,7 +414,7 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
        Unternehmen,
 
     a) Investitionen oder Aufnahme von Krediten bei einem Betrag über 10.000 €
-    
+
     a) sämtliche Grundstücksgeschäfte,
 
     a) Erteilung von Prokura und
@@ -429,8 +430,9 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
 
     a) die Errichtung und Schließung von Filialen,
 
-1. Der Vorstand bedarf die Zustimmung des Bevollmächtigen der Generalversammlung
-    bei
+1. Der Vorstand bedarf der Zustimmung des Bevollmächtigen der Generalversammlung
+    und muss alle Beschäftigten in einer Belegschaftsversammlung informieren bei
+
     a) Abschlüssen von Miet-, Pacht- oder Leasingverträgen, sowie
        anderen Verträgen mit wiederkehrenden Verpflichtungen mit einer
        Laufzeit von mehr als 3 Jahren und/oder einer jährlichen
@@ -439,11 +441,11 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
     a) das Auslagern von Aufgaben und Tätigkeiten an externe
        Dienstleister oder Tochtergesellschaften,
 
-    a) Investitionen oder Aufnahme von Krediten bei einem Betrag von bis zu 
-       10.000 €
+    a) Investitionen oder Aufnahme von Krediten bei einem Betrag von bis zu
+        10.000 €
 
 1. Der Vorstand hat mit der Generalversammlungen Wirtschafts- und
-   Stellenplan zu beraten.
+    Stellenplan zu beraten.
 
 1. Der Vorstand bedarf für die Aufnahme des 21. Mitgliedes der
     Zustimmung der Generalversammlung. Bei der Einladung zu dieser
