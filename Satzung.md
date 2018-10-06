@@ -242,7 +242,7 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
 1. Die Generalversammlung wird durch unmittelbare Benachrichtigung
     sämtlicher Mitglieder in Textform einberufen.
 
-1. Die Generalversammlung wird durch den Vorstand oder der Bevollmächtigte der
+1. Die Generalversammlung wird durch den Vorstand oder den Bevollmächtigten der
     Generalversammlung einberufen.
 
 1. Die Einladung zur Generalversammlung muss mindestens zwei Wochen vor
@@ -409,21 +409,11 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
 1. Der Vorstand führt die Genossenschaft in eigener Verantwortung. Er
     bedarf der Zustimmung der Generalversammlung für
 
-    a) Investitionen oder Aufnahme von Krediten,
-
-    a) Abschlüsse von Miet-, Pacht- oder Leasingverträgen, sowie
-       anderen Verträgen mit wiederkehrenden Verpflichtungen mit einer
-       Laufzeit von mehr als 3 Jahren und/oder einer jährlichen
-       Belastung von mehr als 2.000 €,
-
-    a) die Errichtung und Schließung von Filialen,
-
     a) die Gründung von Unternehmen und die Beteiligung an anderen
        Unternehmen,
 
-    a) das Auslagern von Aufgaben und Tätigkeiten an externe
-       Dienstleister oder Tochtergesellschaften,
-
+    a) Investitionen oder Aufnahme von Krediten bei einem Betrag über 10.000 €
+    
     a) sämtliche Grundstücksgeschäfte,
 
     a) Erteilung von Prokura und
@@ -436,6 +426,21 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
     a) Aufnahme, Übertragung oder Aufgabe eines wesentlichen Geschäftsbereichs,
 
     a) Austritt aus genossenschaftlichen Verbänden.
+
+    a) die Errichtung und Schließung von Filialen,
+
+1. Der Vorstand bedarf die Zustimmung des Bevollmächtigen der Generalversammlung
+    bei
+    a) Abschlüssen von Miet-, Pacht- oder Leasingverträgen, sowie
+       anderen Verträgen mit wiederkehrenden Verpflichtungen mit einer
+       Laufzeit von mehr als 3 Jahren und/oder einer jährlichen
+       Belastung von mehr als 10.000 €,
+
+    a) das Auslagern von Aufgaben und Tätigkeiten an externe
+       Dienstleister oder Tochtergesellschaften,
+
+    a) Investitionen oder Aufnahme von Krediten bei einem Betrag von bis zu 
+       10.000 €
 
 1. Der Vorstand hat mit der Generalversammlungen Wirtschafts- und
    Stellenplan zu beraten.
