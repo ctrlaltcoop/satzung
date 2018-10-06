@@ -434,7 +434,7 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
     a) Abschlüssen von Miet-, Pacht- oder Leasingverträgen, sowie
        anderen Verträgen mit wiederkehrenden Verpflichtungen mit einer
        Laufzeit von mehr als 3 Jahren und/oder einer jährlichen
-       Belastung von mehr als 10.000 €,
+       Belastung von mehr als 2.000 €,
 
     a) das Auslagern von Aufgaben und Tätigkeiten an externe
        Dienstleister oder Tochtergesellschaften,
