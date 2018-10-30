@@ -388,6 +388,10 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
     wählen. Die Amtszeit der Revisoren entspricht der Amtszeit des
     gewählten Bevollmächtigten.
 
+# Betriebsplenum
+Das Betriebsplenum ist eine Versammlung von mindestens 51% der momentan
+Beschäftigten der Genossenschaft.
+
 # Vorstand
 
 1. Der Vorstand besteht aus mindestens einem Mitglied.
@@ -430,8 +434,7 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
 
     a) die Errichtung und Schließung von Filialen,
 
-1. Der Vorstand bedarf der Zustimmung des Bevollmächtigen der Generalversammlung
-    und muss alle Beschäftigten in einer Belegschaftsversammlung informieren bei
+1. Der Vorstand bedarf der Zustimmung des Betriebsplenums bei:
 
     a) Abschlüssen von Miet-, Pacht- oder Leasingverträgen, sowie
        anderen Verträgen mit wiederkehrenden Verpflichtungen mit einer
@@ -443,6 +446,9 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
 
     a) Investitionen oder Aufnahme von Krediten bei einem Betrag von bis zu
         10.000 €
+
+1. Der Vorstand muss die nicht anwesenden Genossenschaftsmitglieder über im
+   Betriebsplenum getroffene Entscheidungen informieren.
 
 1. Der Vorstand hat mit der Generalversammlungen Wirtschafts- und
     Stellenplan zu beraten.
