@@ -111,17 +111,17 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
 1. Alle Mitglieder habe das Recht auf Einsicht in das zusammengefasste Ergebnis
     des Berichts über die Prüfung des Prüfungsverbands zu nehmen.
 
-1. Alle Mitglieder haben das Recht das Protokoll der Generalversammlung
+1. Alle Mitglieder haben das Recht, das Protokoll der Generalversammlung
     einzusehen.
 
-1. Alle Mitglieder haben das Recht die Mitgliederliste einzusehen.
+1. Alle Mitglieder haben das Recht, die Mitgliederliste einzusehen.
 
-1. Alle Mitglieder haben das Recht rechtzeitig vor Feststellung des
+1. Alle Mitglieder haben das Recht, rechtzeitig vor Feststellung des
     Jahresabschlusses durch die Generalversammlung auf ihre Kosten eine
     Abschrift des Jahresabschlusses und des Lageberichts (soweit gesetzlich
     erforderlich) zu verlangen.
 
-1. Alle Mitglieder haben das Recht sich an Verlangen von einem Zehntel der
+1. Alle Mitglieder haben das Recht, sich an Verlangen von einem Zehntel der
    Mitglieder auf Einberufung der Generalversammlung oder Ankündigung von
    Beschlussgegenständen zu beteiligen.
 
@@ -131,13 +131,13 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
 1. Jedes Mitglied verpflichtet sich, die auf den Geschäftsanteil
     vorgeschriebenen Einzahlungen zu leisten.
 
-1. Jedes Mitglied ist verpflichtet die Interessen der Genossenschaft zu
+1. Jedes Mitglied ist verpflichtet, die Interessen der Genossenschaft zu
     wahren.
 
 1. Jedes Mitglied hat den Bestimmungen des Genossenschaftsgesetzes, der
     Satzung und den Beschlüssen der Organe nachzukommen.
 
-1. Alle Mitglieder haben die Pflicht innerhalb von drei Wochen eine
+1. Alle Mitglieder haben die Pflicht, innerhalb von drei Wochen eine
     Änderung ihrer Anschrift dem Vorstand mitzuteilen.
 
 1. Das Mitglied ist verpflichtet, interne Informationen, Vorgänge oder
@@ -185,13 +185,13 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
 1. Mitglieder können zum Schluss eines Geschäftsjahres ausgeschlossen
     werden, wenn
 
-    a)  sie die Genossenschaft schädigen,
+    a)  sie die Genossenschaft schädigen;
 
     a)  sie die gegenüber der Genossenschaft bestehenden Pflichten trotz
-        Mahnung unter Androhung des Ausschlusses nicht erfüllen,
+        Mahnung unter Androhung des Ausschlusses nicht erfüllen;
 
     a)  sie unter der der Genossenschaft bekannt gegebenen Anschrift
-        dauernd nicht erreichbar sind.
+        dauernd nicht erreichbar sind;
 
     a)  wenn ein Angestelltenverhältnis mit einem Mitglied aufgehoben oder 
         gekündigt wurde;
@@ -316,12 +316,12 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
     Online-Generalversammlung, das mindestens folgende Informationen
     enthält:
 
-    a)  das Datum des Beginns der Diskussionsphase
+    a)  das Datum des Beginns der Diskussionsphase;
 
-    a)  das Datum des Beginns und des Endes der Abstimmungsphase
+    a)  das Datum des Beginns und des Endes der Abstimmungsphase;
 
     a)  die Namen der Mitglieder, die an der Abstimmung teilgenommen
-        haben,
+        haben;
 
     a)  den Wortlaut der Anträge, die Abstimmungsergebnisse und
         Äußerungen, deren Aufnahme in das Protokoll ausdrücklich
@@ -335,7 +335,7 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
 
 # Mehrheitserfordernisse
 
-1. Es wird angestrebt Entscheidungen im Konsens zu treffen.
+1. Es wird angestrebt, Entscheidungen im Konsens zu treffen.
 
 1. Die Beschlüsse der Generalversammlung bedürfen der einfachen
     Mehrheit der gültigen abgegebenen Stimmen, soweit nicht das Gesetz
@@ -352,7 +352,7 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
     a)  Verschmelzung, Spaltung und Formwechsel der Genossenschaft;
 
     a)  Aufnahme, Übertragung oder Aufgabe eines wesentlichen
-        Geschäftsbereichs,
+        Geschäftsbereichs;
 
     a)  Auflösung der Genossenschaft;
 
@@ -421,7 +421,7 @@ Beschäftigten der Genossenschaft.
 
     a) sämtliche Grundstücksgeschäfte,
 
-    a) Erteilung von Prokura und
+    a) Erteilung von Prokura,
 
     a) die Aufstellung und Änderung der Geschäftsordnung für den
        Vorstand,
