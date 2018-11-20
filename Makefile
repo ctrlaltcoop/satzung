@@ -6,7 +6,7 @@ all: odt docx pdf
 # CUSTOM BUILD RULES
 
 odt:
-	pandoc -f markdown --reference-doc=styles/style.odt -o Satzung.odt Satzung.md -s -N
+	pandoc -f markdown --reference-odt=styles/style.odt -o Satzung.odt Satzung.md -s -N
 
 docx: odt
 	libreoffice --headless --convert-to docx Satzung.odt
