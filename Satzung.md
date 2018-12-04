@@ -25,7 +25,7 @@ standalone: true
 
 1. Die Genossenschaft heißt "control.alt.coop eG".
 
-1. Der Sitz der Genossenschaft ist Schöneiche bei Berlin.
+1. Der Sitz der Genossenschaft ist Berlin.
 
 # Zweck und Gegenstand
 
