@@ -407,9 +407,7 @@ Beschäftigten der Genossenschaft.
     fassen, wenn kein Vorstandsmitglied diesem Weg der Beschlussfassung
     widerspricht.
 
-1. Die Genossenschaft wird durch zwei Vorstandsmitglieder vertreten.
-    Hat die Genossenschaft nur ein Vorstandsmitglied, vertritt dieses
-    die Genossenschaft alleine.
+1. Die Mitglieder des Vorstandes sind jeweils einzelvertretungsberechtigt.
 
 1. Der Vorstand führt die Genossenschaft in eigener Verantwortung. Er
     bedarf der Zustimmung der Generalversammlung für
