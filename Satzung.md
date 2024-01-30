@@ -64,12 +64,6 @@ standalone: true
 
     a)  oder zur Gründung der Genossenschaft beigetragen haben.
 
-1. Mitglieder können desweiteren Personengesellschaften und juristische Personen
-    werden, die
-    a) die Dienstleistungen der Genossenschaft beziehen
-    
-    a) oder anderweitig geschäftlich mit der Genossenschaft kooperieren
-
 1. Die Mitgliedschaft endet durch:
 
     a)  Kündigung,
@@ -167,18 +161,11 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
 1. Die Übertragung des Geschäftsguthabens bedarf der Zustimmung des
     Vorstandes.
 
-# Tod / Auflösung einer juristischen Person oder Personengesellschaft
+# Tod
 
 1. Mit dem Tod eines Mitglieds geht die Mitgliedschaft auf den Erben
     über. Sie endet mit dem Schluss des Geschäftsjahres, in dem der
     Erbfall eingetreten ist.
-
-1. Wird eine juristische Person oder eine Personengesellschaft
-    aufgelöst oder erlischt sie, so endet die Mitgliedschaft mit dem
-    Schluss des Geschäftsjahres, in dem die Auflösung oder das Erlöschen
-    wirksam geworden ist. Im Falle der Gesamtrechtsnachfolge wird die
-    Mitgliedschaft bis zum Schluss des Geschäftsjahres durch den
-    Gesamtrechtsnachfolger fortgesetzt.
 
 # Ausschluss
 
@@ -265,9 +252,7 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
 1. Die Mitglieder können Stimmrechtsvollmachten erteilen. Kein
     Bevollmächtigter darf mehr als zwei Mitglieder vertreten.
     Bevollmächtigte können nur Mitglieder der Genossenschaft, Ehegatten,
-    eingetragene Lebenspartner, Eltern der Kinder eines Mitglieds oder
-    Angestellte von juristischen Personen oder Personengesellschaften
-    sein.
+    eingetragene Lebenspartner oder Eltern der Kinder eines Mitglieds sein.
 
 1. Mehrheitserfordernisse für Abstimmungen sind in § 15 definiert.
 
