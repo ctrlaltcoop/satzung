@@ -96,7 +96,7 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
 1. Alle Mitglieder haben das Recht an der Generalversammlung teilzunehmen.
 
 1. Alle Mitglieder haben, unabhängig von ihren Geschäftsanteilen, eine
-    Stimme in der Generalversammlung und der Online-Generalversammlung.
+    Stimme in der Generalversammlung.
 
 1. Jedes Mitglied hat das Recht, im Rahmen des Gesetzes die Leistungen
     in Anspruch zu nehmen und an der Gestaltung der Genossenschaft
