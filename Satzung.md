@@ -96,7 +96,7 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
 1. Alle Mitglieder haben das Recht an der Generalversammlung teilzunehmen.
 
 1. Alle Mitglieder haben, unabhängig von ihren Geschäftsanteilen, eine
-    Stimme in der Generalversammlung und der Online-Generalversammlung.
+    Stimme in der Generalversammlung.
 
 1. Jedes Mitglied hat das Recht, im Rahmen des Gesetzes die Leistungen
     in Anspruch zu nehmen und an der Gestaltung der Genossenschaft
@@ -254,69 +254,12 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
     Bevollmächtigte können nur Mitglieder der Genossenschaft, Ehegatten,
     eingetragene Lebenspartner oder Eltern der Kinder eines Mitglieds sein.
 
-1. Mehrheitserfordernisse für Abstimmungen sind in § 15 definiert.
+1. Mehrheitserfordernisse für Abstimmungen sind in [§ 14](#mehrheitserfordernisse) definiert.
 
 1. Die Generalversammlung bestimmt die Versammlungsleitung auf
     Vorschlag des Vorstands.
 
 10. Die Beschlüsse werden gem. § 47 GenG protokolliert.
-
-# Online-Generalversammlung
-
-1. Die Generalversammlung kann auf der Website der Genossenschaft als
-    Online-Generalversammlung abgehalten werden. Die
-    Online-Generalversammlung besteht aus einer Diskussionsphase und
-    einer anschließenden Abstimmungsphase.
-
-1. Mit der Einladung zur der Online-Generalversammlung erhalten die
-    Mitglieder Zugangsdaten für die Teilnahme an der Diskussion und der
-    Abstimmung, sowie den Beginn und das Ende der Diskussions- und
-    Abstimmungsphase.
-
-1. Die Online-Generalversammlung wird von einem vom Vorstand bestimmten
-    Mitglied des Vorstands geleitet.
-
-1. Die Diskussionen finden geschützt in einer geschlossenen
-    Benutzergruppe statt. Zu jedem Tagesordnungspunkt werden
-    Diskussionsbereiche eingerichtet, diese können vom
-    Versammlungsleiter in Unterthemen gegliedert werden. Jedes Mitglied
-    hat Diskussionsrecht. Anzahl und Umfang der Diskussionsbeiträge sind
-    nicht beschränkt. Die Diskussionsphase dauert mindestens drei
-    Wochen. Der Vorstand kann eine längere Diskussionsphase festlegen.
-
-1. Die Abstimmungsphase hat eine Dauer von sieben Tagen. Die Abstimmung
-    erfolgt offen und namentlich. Die Abgabe einer Stimme erfolgt durch
-    ein elektronisches Verfahren, das die Transparenz und
-    Nachprüfbarkeit einer Stimmabgabe durch die Mitglieder sicherstellt.
-    Das konkrete Abstimmungsverfahren wird vom Vorstand festgelegt.
-    Jedes Mitglied kann bis drei Tage vor Beginn der Abstimmungsphase im
-    Rahmen der angekündigten Beschlussgegenstände Anträge stellen und
-    bereits gestellte eigene Anträge abändern oder zurückziehen. Der
-    Versammlungsleiter entscheidet darüber ob über Anträge alternativ
-    oder jeweils getrennt abgestimmt wird. Nach der Abstimmungsphase
-    stellt der Versammlungsleiter unverzüglich das Abstimmungsergebnis
-    fest und teilt es den Mitgliedern mit.
-
-1. Der Versammlungsleiter erstellt ein Protokoll der
-    Online-Generalversammlung, das mindestens folgende Informationen
-    enthält:
-
-    a)  das Datum des Beginns der Diskussionsphase;
-
-    a)  das Datum des Beginns und des Endes der Abstimmungsphase;
-
-    a)  die Namen der Mitglieder, die an der Abstimmung teilgenommen
-        haben;
-
-    a)  den Wortlaut der Anträge, die Abstimmungsergebnisse und
-        Äußerungen, deren Aufnahme in das Protokoll ausdrücklich
-        verlangt wurde.
-
-1. Das Protokoll wird vom Versammlungsleiter und allen
-    Vorstandsmitgliedern unterschrieben und auf der Website der
-    Genossenschaft im geschützten Mitgliederbereich veröffentlicht.
-    Gegen das Protokoll kann innerhalb von sieben Tagen nach
-    Veröffentlichung Einspruch erhoben werden.
 
 # Mehrheitserfordernisse
 
