@@ -7,27 +7,27 @@ standalone: true
 ---
 
 <style type="text/css">
-  #satzung {
-    counter-reset: h1counter;
+  body {
+    counter-reset: h2counter;
   }
 
-  h1:before {
-    counter-increment: h1counter;
-    content: "§" counter(h1counter) "\0000a0"
+  h2:before {
+    counter-increment: h2counter;
+    content: "§" counter(h2counter) "\0000a0"
   }
 
-  h1 {
+  h2 {
     font-size: 1.5em;
   }
 </style>
 
-# Name, Sitz
+## Name, Sitz
 
 1. Die Genossenschaft heißt "control.alt.coop eG".
 
 1. Der Sitz der Genossenschaft ist Berlin.
 
-# Zweck und Gegenstand
+## Zweck und Gegenstand
 
 1. Die Genossenschaft bezweckt die Förderung der Wirtschaft und des
     Erwerbs der Mitglieder mittels gemeinschaftlichen
@@ -53,7 +53,7 @@ standalone: true
 1. Die Genossenschaft kann sich an anderen Unternehmen beteiligen, wenn
     dies der Förderung der Mitglieder dient.
 
-# Mitgliedschaft
+## Mitgliedschaft
 
 1. Zum Erwerb der Mitgliedschaft bedarf es einer unbedingten
     schriftlichen Beitrittserklärung, über die der Vorstand entscheidet.
@@ -75,7 +75,7 @@ standalone: true
 
     a)  Ausschluss.
 
-# Geschäftsanteil
+## Geschäftsanteil
 
 1. Der Geschäftsanteil beträgt 500 €. Er ist sofort in voller Höhe
     einzuzahlen.
@@ -87,11 +87,11 @@ standalone: true
     darf erst zugelassen werden, wenn der erste Geschäftsanteil voll eingezahlt
     ist; das gleiche gilt für Beteiligung mit weiteren Geschäftsanteilen.
 
-# Ausschluss der Nachschusspflicht
+## Ausschluss der Nachschusspflicht
 
 Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
 
-# Rechte der Mitglieder
+## Rechte der Mitglieder
 
 1. Alle Mitglieder haben das Recht an der Generalversammlung teilzunehmen.
 
@@ -120,7 +120,7 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
    Beschlussgegenständen zu beteiligen.
 
 
-# Pflichten der Mitglieder
+## Pflichten der Mitglieder
 
 1. Jedes Mitglied verpflichtet sich, die auf den Geschäftsanteil
     vorgeschriebenen Einzahlungen zu leisten.
@@ -138,7 +138,7 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
     sonstige Dinge, die der Genossenschaft erheblichen Schaden zufügen können, 
     nicht an unbeteiligte Dritte weiterzugeben.
 
-# Kündigung
+## Kündigung
 
 1. Die Frist für die Kündigung der Mitgliedschaft oder einzelner,
     freiwilliger Anteile beträgt 6 Monate zum Schluss des
@@ -146,7 +146,7 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
 
 1. Die Kündigung bedarf der Schriftform.
 
-# Übertragung des Geschäftsguthabens
+## Übertragung des Geschäftsguthabens
 
 1. Jedes Mitglied kann sein Geschäftsguthaben jederzeit durch
     schriftliche Vereinbarung einem anderen ganz oder teilweise
@@ -161,13 +161,13 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
 1. Die Übertragung des Geschäftsguthabens bedarf der Zustimmung des
     Vorstandes.
 
-# Tod
+## Tod
 
 1. Mit dem Tod eines Mitglieds geht die Mitgliedschaft auf den Erben
     über. Sie endet mit dem Schluss des Geschäftsjahres, in dem der
     Erbfall eingetreten ist.
 
-# Ausschluss
+## Ausschluss
 
 1. Mitglieder können zum Schluss eines Geschäftsjahres ausgeschlossen
     werden, wenn
@@ -207,7 +207,7 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
     Onlinegeneralversammlung, sowie seine Mitgliedschaft im Vorstand, sein Amt
     als Bevollmächtigter oder Revisor.
 
-# Auseinandersetzung
+## Auseinandersetzung
 
 1. Das Ausscheiden aus der Genossenschaft hat die Auseinandersetzung
     zwischen dem ausgeschiedenen Mitglied bzw. dessen Erben und der
@@ -224,7 +224,7 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
 1. Beim Auseinandersetzungsguthaben werden Verlustvorträge anteilig
     abgezogen.
 
-# Generalversammlung
+## Generalversammlung
 
 1. Die Generalversammlung wird durch unmittelbare Benachrichtigung
     sämtlicher Mitglieder in Textform einberufen.
@@ -261,7 +261,7 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
 
 10. Die Beschlüsse werden gem. § 47 GenG protokolliert.
 
-# Mehrheitserfordernisse
+## Mehrheitserfordernisse
 
 1. Es wird angestrebt, Entscheidungen im Konsens zu treffen.
 
@@ -288,7 +288,7 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
 
     a)  Ausschluss von Mitgliedern.
 
-# Bevollmächtigter, Revisionskommission
+## Bevollmächtigter, Revisionskommission
 
 1. Es wird kein Aufsichtsrat gebildet.
 
@@ -316,11 +316,11 @@ Die Mitglieder sind nicht zur Leistung von Nachschüssen verpflichtet.
     wählen. Die Amtszeit der Revisoren entspricht der Amtszeit des
     gewählten Bevollmächtigten.
 
-# Betriebsplenum
+## Betriebsplenum
 Das Betriebsplenum ist eine Versammlung von mindestens 51% der momentan
 Beschäftigten der Genossenschaft.
 
-# Vorstand
+## Vorstand
 
 1. Der Vorstand besteht aus mindestens einem Mitglied.
 
@@ -385,7 +385,7 @@ Beschäftigten der Genossenschaft.
     ggfs. Vorstand, sowie entsprechende Satzungsänderungen auf die
     Tagesordnung setzen.
 
-# Gemeinsame Vorschriften für die Organe
+## Gemeinsame Vorschriften für die Organe
 
 1. Niemand kann für sich oder einen anderen das Stimmrecht ausüben,
     wenn darüber Beschluss gefasst wird, ob er oder das vertretene
@@ -400,7 +400,7 @@ Beschäftigten der Genossenschaft.
     Beratung nicht teilnehmen. Das Mitglied ist jedoch vor der
     Beschlussfassung zu hören.
 
-# Gewinnverteilung, Verlustdeckung, Rückvergütung und Rücklagen
+## Gewinnverteilung, Verlustdeckung, Rückvergütung und Rücklagen
 
 1. Über den bei der Feststellung des Jahresabschlusses sich ergebenden
     Gewinn oder Verlust des Geschäftsjahres entscheidet die
@@ -433,7 +433,7 @@ Beschäftigten der Genossenschaft.
     Auseinandersetzungsguthaben verjähren in zwei Jahren ab Fälligkeit.
     Die Beträge werden den Rücklagen zugeführt.
 
-# Bekanntmachungen
+## Bekanntmachungen
 Bekanntmachungen, deren Veröffentlichung vorgeschrieben ist,
 erfolgen unter der Firma der Genossenschaft unter 
 www.genossenschaftsbekanntmachungen.de.

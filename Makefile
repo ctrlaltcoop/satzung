@@ -14,7 +14,11 @@ docx: odt
 pdf: odt
 	libreoffice --headless --convert-to pdf Satzung.odt
 
+html:
+	pandoc -f markdown -o Satzung.html Satzung.md -s
+
 clean:
 	rm -f Satzung.docx
 	rm -f Satzung.pdf
 	rm -f Satzung.odt
+	rm -f Satzung.html
