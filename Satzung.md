@@ -1,6 +1,6 @@
 ---
 title: "Satzung"
-date: "30.06.2020"
+date: "20.06.2024"
 numbersections: true
 standalone: true
 
