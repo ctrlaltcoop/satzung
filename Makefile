@@ -1,7 +1,7 @@
 # STOLEN FROM: https://tex.stackexchange.com/questions/40738/how-to-properly-make-a-latex-project
 # The first rule in a Makefile is the one executed by default ("make"). It
 # should always be the "all" rule, so that "make" and "make all" are identical.
-all: odt docx pdf
+all: odt docx pdf html
 
 # CUSTOM BUILD RULES
 
