@@ -1,14 +1,19 @@
 ---
 title: "Satzung"
-date: "30.06.2020"
+date: "20.06.2024"
 numbersections: true
 standalone: true
 
 ---
 
 <style type="text/css">
-  #satzung {
+  body {
     counter-reset: h1counter;
+  }
+
+  header h1:before {
+    counter-reset: h1counter;
+    content: '';
   }
 
   h1:before {
